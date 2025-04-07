@@ -7,7 +7,7 @@
 
 **✨ Generate awesome domain names and check their availability instantly! ✨**
 
-_[English](#english-version) | [Русский](#русская-версия)_
+_[English](#-english-version) | [Русский](#-русская-версия)_
 
 </div>
 
